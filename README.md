@@ -1,1 +1,1 @@
-I'm solving Project Euler problems with Pyton.
+I'm solving Project Euler problems with Python.
